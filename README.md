@@ -2,6 +2,10 @@
 
 A company that owns several restaurants in different states in the US wants you to provide software that manages these restaurants, by performing several operations in the software. These operations actually manipulate various components of a database. Example operations are to establish a new restaurant, update a menu, hire restaurant employees, place an order by a customer, provide financial statements, etc. In addition, there are reports to be run for the managers of the restaurants, to observe how the business is doing in a specific state, or during a specific month or quarter of the year, etc. 
 
+# Digidine System
+
+This project implements a comprehensive restaurant management system using PL/SQL. It includes a variety of stored procedures, functions, and triggers to manage different aspects of a restaurant operation efficiently.
+
 
 ## FEATURES
 
