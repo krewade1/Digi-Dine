@@ -1,10 +1,3 @@
--- T E A M 1
---Member 1: Shiva Prakash Reddy Gopanpally
---Member 2: Bhairav Prasad Racharla
---Member 3: Kunal Rewade
---Member 4: Syamala Makireddi
---Member 5: Abdulai Ben Kamara
---Member 6: Rupesh Salapu
 
 set SERVEROUTPUT ON
 
@@ -1553,7 +1546,6 @@ DBMS_OUTPUT.PUT_LINE(' ');
 most_popular_restaurant;
 
 END;
-
 /
 
 
